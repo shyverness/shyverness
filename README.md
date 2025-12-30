@@ -1,10 +1,10 @@
 # Recueil de mes textes/romans/whatever.
 
 ## Textes courts (le plus récent en haut)
-- [Le Japonais n'est pas si difficile](./files/textes/2025-japonais-n-est-pas-si-difficile.md)
-- [Les logiciels libre et leur place dans la société](./files/textes/2025-Les-logiciels-libres-ouverts.md)
-- [Souffrance](./files/textes/2025-Souffrance.md)
-- [Colorless](./files/textes/2025-Colorless.md)
+- [Le Japonais n'est pas si difficile (2025)](./files/textes/2025-japonais-n-est-pas-si-difficile.md)
+- [Les logiciels libre et leur place dans la société (2025)](./files/textes/2025-Les-logiciels-libres-ouverts.md)
+- [Souffrance (2025)](./files/textes/2025-Souffrance.md)
+- [Colorless (2025)](./files/textes/2025-Colorless.md)
 
 ## Romans
 
@@ -13,4 +13,4 @@ Alex, un jeune loup-garou à l'apparence androgyne, a toujours lutté pour trouv
 sa place. Constamment harcelé par le charismatique mais cruel Inuzuka qui fait
 de sa vie un enfer. Mais lors d'une excursion scolaire, un accident près d'un
 ruisseau mystérieux bouleverse sa réalité et change son corps de manière
-irréversible
+irréversible.
