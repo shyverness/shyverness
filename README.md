@@ -13,7 +13,8 @@ Colemak > QWERTY
 
 | Nom | Description |
 |-|-|
-| tmux-goway | Un outil pour switcher entre des sessions TMUX à l'aide te FZF |
+| [tmux-goway](https://github.com/fuyu147/tmux-goway) | Un outil pour switcher entre des sessions TMUX à l'aide te FZF |
+| [TNPS](https://github.com/fuyu147/TNPS) | Un outil pour trouver les patterns dans les commentaires (ex: "TODO") de fichiers. |
 
 ## Recueil de mes textes/romans/whatever.
 
