@@ -9,6 +9,12 @@ Colemak > QWERTY
 - Discord: fuyu147
 - Email: winter.leg.147 [at] gmail.com
 
+## Projets
+
+| Nom | Description |
+|-|-|
+| tmux-goway | Un outil pour switcher entre des sessions TMUX à l'aide te FZF |
+
 ## Recueil de mes textes/romans/whatever.
 
 ### Textes courts (le plus récent en haut)
