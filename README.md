@@ -4,14 +4,14 @@
 
 Colemak > QWERTY
 
-# "Socials"
+## "Socials"
 - GitHub/Codeberg: fuyu147
 - Discord: fuyu147
 - Email: winter.leg.147 [at] gmail.com
 
-# Recueil de mes textes/romans/whatever.
+## Recueil de mes textes/romans/whatever.
 
-## Textes courts (le plus récent en haut)
+### Textes courts (le plus récent en haut)
 
 | Année | Titre |
 | ----- | ----- |
@@ -21,7 +21,7 @@ Colemak > QWERTY
 | 2025  | [Souffrance](./files/textes/2025-Souffrance.md) |
 | 2025  | [Colorless](./files/textes/2025-Colorless.md) |
 
-## Romans
+### Romans
 
 | Année | Titre | Aperçu |
 | ----- | ----- | ----------- |
