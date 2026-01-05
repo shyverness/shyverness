@@ -15,7 +15,7 @@ Colemak > QWERTY
 
 | Année | Titre |
 | ----- | ----- |
-| 2026  | [Pourquoi Wayland est mieux que X11](./files/textes/2026-Wayland-vs-X11.md) |
+| 2026  | [Pourquoi Wayland est mieux que X11 (not done yet)](./files/textes/2026-Wayland-vs-X11.md) |
 | 2025  | [Le Japonais n'est pas si difficile](./files/textes/2025-japonais-n-est-pas-si-difficile.md) |
 | 2025  | [Les logiciels libre et leur place dans la société](./files/textes/2025-Les-logiciels-libres-ouverts.md) |
 | 2025  | [Souffrance](./files/textes/2025-Souffrance.md) |
