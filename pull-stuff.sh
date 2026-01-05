@@ -8,5 +8,7 @@ books=(
 )
 
 for item in "${books[@]}"; do
-    cp "../../book/$item/main.pdf" "files/romans/$item.pdf"
+    cp "$HOME/art/book/$item/main.pdf" "files/romans/$item.pdf"
 done
+
+cp $HOME/art/notes/textes/* "files/textes/"
