@@ -16,7 +16,6 @@ Colemak > QWERTY
 | [tmux-goway](https://github.com/fuyu147/[tmux-goway](https://github.com/fuyu147/tmux-goway)) | Un outil pour switcher entre des sessions TMUX à l'aide de FZF |
 | [TNPS](https://github.com/fuyu147/TNPS) | Un outil pour trouver les patterns dans les commentaires (ex: "TODO") de fichiers. |
 | [LINC](https://github.com/fuyu147/linc) | Une collection de différente chose reliée à l'algèbre linéaire en C |
-| [TNPS](https://github.com/fuyu147/TNPS) | Un outil pour trouver les patterns dans les commentaires (ex: "TODO") de fichiers. |
 
 ## Recueil de mes textes/romans/whatever.
 
