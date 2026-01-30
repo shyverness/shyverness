@@ -1,64 +1,60 @@
 # Pourquoi le japonais n'est-il pas aussi difficile que l'on croit?</h2>
-Peu importe où vous êtes, en Europe, en Amérique, et même ici, au
-Québec, vous avez forcément déjà entendu l'expression « C'est du chinois
-» pour décrire quelque chose d'incompréhensible. Cette idée s'étend
-souvent au japonais, perçu comme une forteresse linguistique imprenable.
-Cependant, cette langue est-elle réellement si difficile à apprendre ?
-Je crois que non. La difficulté perçue vient souvent de l'ignorance et
-d'une réticence à accepter des systèmes linguistiques simplement
-_différents_ de nos langues indo-européennes. Nous allons aborder
-cette question sous deux angles : l'écriture et la grammaire. Il ne faut
-pas nier que le japonais présente des défis, mais il est bien plus
+
+Peu importe où vous êtes, en Europe, en Amérique, et même ici, au Québec, vous
+avez forcément déjà entendu l'expression « C'est du chinois » pour décrire
+quelque chose d'incompréhensible. Cette idée s'étend souvent au japonais, perçu
+comme une forteresse linguistique imprenable. Cependant, cette langue est-elle
+réellement si difficile à apprendre ? Je crois que non. La difficulté perçue
+vient souvent de l'ignorance et d'une réticence à accepter des systèmes
+linguistiques simplement _différents_ de nos langues indo-européennes. Nous
+allons aborder cette question sous deux angles : l'écriture et la grammaire. Il
+ne faut pas nier que le japonais présente des défis, mais il est bien plus
 accessible qu'on ne le pense.
 
 ## Le système d'écriture : plus qu'une simple liste de caractères
-L'un des premiers freins psychologiques est le système d'écriture. Le
-nombre de caractères à apprendre, les fameux <i>kanji</i>, est souvent
-considéré comme insurmontable. Officiellement, la liste des
-<i>jōyō kanji</i>
-(les kanji d'usage courant) en compte 2136. Ce chiffre peut paraître
-énorme, mais il faut le mettre en perspective.
 
-Plutôt que de voir les kanji comme 2136 mots indépendants, il est plus
-juste de les considérer comme des
-<b>briques de sens</b>. Par exemple, le kanji 「水」 (<i>mizu</i>)
-signifie « eau ». En le combinant, on forme de nouveaux mots de manière
-très logique : 「水曜日」 (<i>suiyōbi</i>, mercredi, litt. "jour de
-l'eau"), 「水道」 (<i>suidō</i>, aqueduc, litt. "voie de l'eau"), ou
-「香水」 (<i>kōsui</i>, parfum, litt. "eau parfumée"). Apprendre un
-kanji, c'est donc débloquer la compréhension de dizaines de mots. La
-tâche consiste moins à mémoriser des milliers de dessins qu'à apprendre
-un système de construction de sens.
+L'un des premiers freins psychologiques est le système d'écriture. Le nombre de
+caractères à apprendre, les fameux <i>kanji</i>, est souvent considéré comme
+insurmontable. Officiellement, la liste des <i>jōyō kanji</i> (les kanji d'usage
+courant) en compte 2136. Ce chiffre peut paraître énorme, mais il faut le mettre
+en perspective.
 
-De plus, le japonais ne repose pas uniquement sur les kanji. Il dispose
-de deux syllabaires phonétiques, les
-<i>kana</i> : les <b>hiragana</b> et les <b>katakana</b>. Chacun est
-composé de 46 caractères de base qui représentent des sons (comme "ka",
-"shi", "o", etc.). Les hiragana sont utilisés pour la grammaire
-(terminaisons de verbes, particules), tandis que les katakana servent
-principalement à transcrire les mots d'origine étrangère. Ces deux
-systèmes s'apprennent en quelques jours et permettent de lire et
-d'écrire n'importe quel mot en japonais, même sans connaître les kanji
-correspondants. C'est un filet de sécurité qui rend la langue
-immédiatement plus accessible.
+Plutôt que de voir les kanji comme 2136 mots indépendants, il est plus juste de
+les considérer comme des <b>briques de sens</b>. Par exemple, le
+kanji 「水」 (<i>mizu</i>) signifie « eau ». En le combinant, on forme de
+nouveaux mots de manière très logique : 「水曜日」 (<i>suiyōbi</i>, mercredi,
+litt. "jour de l'eau"), 「水道」 (<i>suidō</i>, aqueduc, litt. "voie de l'eau"),
+ou「香水」 (<i>kōsui</i>, parfum, litt. "eau parfumée"). Apprendre un kanji,
+c'est donc débloquer la compréhension de dizaines de mots. La tâche consiste
+moins à mémoriser des milliers de dessins qu'à apprendre un système de
+construction de sens.
+
+De plus, le japonais ne repose pas uniquement sur les kanji. Il dispose de deux
+syllabaires phonétiques, les <i>kana</i> : les <b>hiragana</b> et les
+<b>katakana</b>. Chacun est composé de 46 caractères de base qui représentent
+des sons (comme "ka", "shi", "o", etc.). Les hiragana sont utilisés pour la
+grammaire (terminaisons de verbes, particules), tandis que les katakana servent
+principalement à transcrire les mots d'origine étrangère. Ces deux systèmes
+s'apprennent en quelques jours et permettent de lire et d'écrire n'importe quel
+mot en japonais, même sans connaître les kanji correspondants. C'est un filet de
+sécurité qui rend la langue immédiatement plus accessible.
 
 ## Une grammaire d'une régularité déconcertante
-Si l'écriture représente un défi de mémorisation, la grammaire
-japonaise, elle, surprend par sa simplicité et sa logique. Oubliez les
-complexités du français :
 
-- <b>Pas de genre</b> : Les noms n'ont pas de genre. Fini les
-    hésitations entre "le" ou "la table".
-- <b>Pas de pluriel (ou presque)</b> : Le contexte indique généralement
-    si l'on parle d'un ou de plusieurs objets. Le mot 「猫」 (<i>neko</i>)
-    peut signifier "un chat" ou "des chats".
-- <b>Des conjugaisons extrêmement régulières</b> : Il n'existe que deux
-    verbes irréguliers en japonais moderne. Tous les autres suivent des
-    règles de conjugaison strictes et prévisibles, sans exception. De
-    plus, la forme du verbe ne change pas selon le sujet : que ce soit
-    "je", "tu", "il" ou "ils", le verbe reste le même. Le tableau
-    ci-dessous montre la conjugaison du verbe 「食べる」 (<i>taberu</i>,
-    manger) et illustre cette régularité.
+Si l'écriture représente un défi de mémorisation, la grammaire japonaise, elle,
+surprend par sa simplicité et sa logique. Oubliez les complexités du français :
+
+- <b>Pas de genre</b> : Les noms n'ont pas de genre. Fini les hésitations entre
+  "le" ou "la table".
+- <b>Pas de pluriel (ou presque)</b> : Le contexte indique généralement si l'on
+  parle d'un ou de plusieurs objets. Le mot 「猫」 (<i>neko</i>) peut signifier
+  "un chat" ou "des chats".
+- <b>Des conjugaisons extrêmement régulières</b> : Il n'existe que deux verbes
+  irréguliers en japonais moderne. Tous les autres suivent des règles de
+  conjugaison strictes et prévisibles, sans exception. De plus, la forme du
+  verbe ne change pas selon le sujet : que ce soit "je", "tu", "il" ou "ils", le
+  verbe reste le même. Le tableau ci-dessous montre la conjugaison du
+  verbe 「食べる」 (<i>taberu</i>, manger) et illustre cette régularité.
 
 <table style="margin: auto">
 <caption>
@@ -111,11 +107,11 @@ complexités du français :
 </tr>
 </table>
 
-Comme mentionner plus haut, il n'existe que deux verbes irréguliers:
-するet 来る. Cependant ce ne sont pas des verbes irréguliers dans le
-sens occidental où la terminaison change pour chaque personne. La
-terminaison reste identique avec l'accord des autres verbes. Cependant
-la racine du verbe est ce qui change:
+Comme mentionner plus haut, il n'existe que deux verbes
+irréguliers: するet 来る. Cependant ce ne sont pas des verbes irréguliers dans
+le sens occidental où la terminaison change pour chaque personne. La terminaison
+reste identique avec l'accord des autres verbes. Cependant la racine du verbe
+est ce qui change:
 
 <table style="margin: auto">
 <caption>
@@ -169,17 +165,18 @@ la racine du verbe est ce qui change:
 </table>
 
 ## Structure de phrase logique
+
 La structure de la phrase (Sujet-Objet-Verbe) et l'usage des particules
-(comme は, が, を) pour indiquer la fonction des mots sont certes
-différents, mais ils suivent une logique interne très cohérente. Une
-fois le rôle de chaque particule compris, construire des phrases devient
-un jeu de construction.
+(comme は, が, を) pour indiquer la fonction des mots sont certes différents,
+mais ils suivent une logique interne très cohérente. Une fois le rôle de chaque
+particule compris, construire des phrases devient un jeu de construction.
 
 ## Conclusion
-Le japonais n'est pas une langue facile, mais sa difficulté est souvent
-mal comprise. Le défi principal est la mémorisation initiale des
-systèmes d'écriture. Cependant, sa grammaire régulière et l'absence de
-certaines complexités propres aux langues latines en font une langue
-beaucoup plus logique et moins frustrante qu'il n'y paraît. La clé est
-d'aborder le japonais non pas comme une version "difficile" du français,
-mais comme un système différent, avec sa propre cohérence.
+
+Le japonais n'est pas une langue facile, mais sa difficulté est souvent mal
+comprise. Le défi principal est la mémorisation initiale des systèmes
+d'écriture. Cependant, sa grammaire régulière et l'absence de certaines
+complexités propres aux langues latines en font une langue beaucoup plus logique
+et moins frustrante qu'il n'y paraît. La clé est d'aborder le japonais non pas
+comme une version "difficile" du français, mais comme un système différent, avec
+sa propre cohérence.

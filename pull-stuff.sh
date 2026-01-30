@@ -2,13 +2,10 @@
 
 books=(
     le-goût-de-tes-baisers
-    # axle
-    # fracture
-    shattered-mirrors
 )
 
 for item in "${books[@]}"; do
-    cp "$HOME/art/book/$item/main.pdf" "files/romans/$item.pdf"
+    cp "$HOME/book/$item/main.pdf" "files/romans/$item.pdf"
 done
 
-cp $HOME/art/notes/textes/* "files/textes/"
+# cp $HOME/notes/textes/* "files/textes/"

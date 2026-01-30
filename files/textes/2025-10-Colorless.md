@@ -1,4 +1,5 @@
 # Colorless
+
     I'm broken glass
     I may be beautiful
     But the rays of light
