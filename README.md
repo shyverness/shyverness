@@ -7,6 +7,5 @@ Colemak > QWERTY
 
 ## "Socials"
 
-- GitHub/Codeberg: fuyu147
-- Discord: fuyu147
+- GitHub: fuyu147
 - Email: winter.leg.147 [at] gmail.com
