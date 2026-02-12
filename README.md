@@ -7,5 +7,5 @@ Colemak > QWERTY
 
 ## "Socials"
 
-- GitHub: fuyu147
+- Matrix: @winter.l:matrix.org
 - Email: winter.leg.147 [at] gmail.com

@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 
 books=(
-    le-goût-de-tes-baisers
+  le-goût-de-tes-baisers
 )
 
 for item in "${books[@]}"; do
-    cp "$HOME/book/$item/main.pdf" "files/romans/$item.pdf"
+  cp "$HOME/book/$item/main.pdf" "files/romans/$item.pdf"
 done
 
-# cp $HOME/notes/textes/* "files/textes/"
+cp $HOME/notes/étude/exercices/*.pdf "files/études/"
