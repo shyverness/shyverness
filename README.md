@@ -7,5 +7,6 @@ Colemak > QWERTY
 
 ## "Socials"
 
+- Codeberg: [winterl](https://codeberg.corg/winterl)
 - Matrix: @winter.l:matrix.org
 - Email: winter.leg.147 [at] gmail.com
