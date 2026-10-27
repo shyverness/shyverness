@@ -8,6 +8,6 @@ Colemak > QWERTY
 
 ## "Socials"
 
-- Codeberg: [rozes](https://codeberg.corg/rozes)
+- Codeberg: [shyverness](https://codeberg.corg/shyverness)
 - Discord: roses.z
 - Email: shyverness [at] pm.me
