@@ -1,5 +1,4 @@
-
-Hiver
+# Hiver
 
 Étudiante en Bacc. Informatique à l'UQTR qui s'intéresse
 à C, ed(1), dwm, st, et bien d'autres choses.
@@ -7,8 +6,7 @@ Hiver
 
 Colemak > QWERTY
 
-	Liens "socials"
-	---------------
+## Liens "socials"
 
 *  codeberg.org/shyverness
 *  github.com/shyverness
