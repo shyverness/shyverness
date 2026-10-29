@@ -8,7 +8,6 @@ Colemak > QWERTY
 
 ## Liens "socials"
 
-*  codeberg.org/shyverness
 *  github.com/shyverness
 *  discord: roses.z
-*  email: shyverness [at] pm.me
+*  email: hiversp [at] pm.me
