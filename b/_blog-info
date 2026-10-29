@@ -1,0 +1,13 @@
+	Ceci est une page d'une série de blogues disponibles à
+
+		github.com/shyverness/shyverness/b
+
+	Il est recommendé d'utiliser une police d'écriture à
+	largeur fixe et d'avoir les tabulations à une largeur
+	de 8 caractères.  Vous pouvez, par exemple, utiliser
+	la commande
+
+		less -x8 b/hi
+
+	-x8 dit à less de mettre les tabulations à chaque 8
+	caractères.

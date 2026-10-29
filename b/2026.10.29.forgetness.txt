@@ -1,0 +1,15 @@
+			Forgetness
+			==========
+
+Récemment, je me suis posée la question suivante:
+
+	Qu'est-ce que je ferais si j'oubliais
+	comment utiliser mon ordinateur?
+
+On y pense pas souvent, mais on développe souvent des façon de
+faire ou de penser lorsque nous utilisons nos ordinateurs.  Pour ma
+part, j'utilise Linux avec un Tiling Window Manager qui a besoin
+d'énormément de keybinds pour l'utilisation.	Si j'oubliais ça,
+comment utiliserais-je mon ordinateur?	C'est un environnement
+tellement customizé qu'il n'est presque pas possible que quelqu'un
+d'autre dans mon entourage sache l'utilisé...
